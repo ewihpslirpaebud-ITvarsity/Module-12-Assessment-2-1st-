@@ -1,0 +1,86 @@
+
+.container {
+  position: relative;
+ 
+}
+
+.vertical-center {
+ text-align: center;
+}
+
+#navbar{
+    color: rgb(255, 255, 255);
+    background-color:rgb(144, 142, 243);
+    padding: 1rem;
+}
+#navbar h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#table{
+    padding: 1rem;
+}
+#refresh{
+    color: rgb(243, 243, 243);
+    background-color:rgb(93, 91, 211);
+    padding: 0.5rem; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 450;
+}
+#addContact{
+    color: rgb(243, 243, 243);
+    background-color:rgb(93, 91, 211);
+    padding: 0.5rem; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 450;
+   
+}
+#homeLink{
+    color: rgb(243, 243, 243);
+    background-color:rgb(93, 91, 211);
+    border-radius: 1rem; 
+    padding: 0.5rem; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 450;
+    
+}
+#submitForm{
+    color: rgb(243, 243, 243);
+    background-color:rgb(93, 91, 211);
+    border-radius: 1rem; 
+    padding: 0.5rem; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 450;   
+}
+#editContact{
+    color: rgb(243, 243, 243);
+    background-color:rgb(93, 91, 211);
+    border-radius: 1rem; 
+    padding: 0.5rem; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 450;  
+}
+#deleteContact{
+    color: rgb(243, 243, 243);
+    background-color:rgb(93, 91, 211);
+    border-radius: 1rem; 
+    padding: 0.5rem;   
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 450;
+}
+#firstname{
+    border-radius: 1rem;
+    border-style: line;
+}
+#lastname{
+    border-radius: 1rem;
+    border-style: line;
+}
+#mobile{
+    border-radius: 1rem;
+    border-style: line;
+}
+#email{
+    border-radius: 1rem;
+    border-style: line;
+}
